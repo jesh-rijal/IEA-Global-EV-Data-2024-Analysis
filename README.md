@@ -1,4 +1,4 @@
-# 🚗 IEA Global EV Data 2024 (EDA) Project
+# 🚗 IEA Global EV Data 2024 Analysis Project
 
 ## 📌 Project Overview
 
