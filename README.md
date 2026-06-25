@@ -47,12 +47,6 @@ The dataset contains information about global electric vehicle statistics collec
 * 🎨 Seaborn
 * 📓 Jupyter Notebook
 
-⬇️ Install required libraries:
-
-```bash
-pip install pandas numpy matplotlib seaborn notebook
-```
-
 ---
 
 # 📁 Project Structure
@@ -94,7 +88,7 @@ cd IEA-Global-EV-Data-2024-Analysis
 code .
 ```
 
-### 5️⃣ 📦 Install Dependencies
+### 5️⃣ ⬇️ Install Dependencies
 
 ```bash
 pip install pandas numpy matplotlib seaborn notebook
