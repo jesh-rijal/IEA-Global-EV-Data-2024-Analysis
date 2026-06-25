@@ -94,7 +94,13 @@ cd IEA-Global-EV-Data-2024-Analysis
 code .
 ```
 
-### 5️⃣ 🚀 Run the Jupyter Notebook
+### 5️⃣ 📦 Install Dependencies
+
+```bash
+pip install pandas numpy matplotlib seaborn notebook
+```
+
+### 6️⃣ 🚀 Run the Jupyter Notebook
 
 📓 Open the notebook file **`IEA Global EV Data 2024 new.ipynb`** and run all cells sequentially to reproduce the **Exploratory Data Analysis (EDA)**.
 
